@@ -1,0 +1,59 @@
+nav{
+    
+}
+nav.navbar{
+    background-color: white;
+    z-index: 1;
+    position: fixed;
+}
+
+nav.navbar a{
+    color: #042b40 !important;
+}
+
+li a{
+    background-color: white;
+    
+}
+
+.container-fluid{
+    margin-bottom: 3.3%;
+}
+h1{
+    font-family: sans-serif, 'Proxima Nova' !important;
+    font-weight: bold;
+    color: #042b40 !important;
+    font-size: 100px !important;  
+    text-align: center;
+}
+
+h2{
+    font-family: sans-serif, 'Proxima Nova' !important;
+    color: #1c5b7d !important;
+}
+h3{
+    
+}
+
+img{
+    margin:auto; 
+}
+.carousel-indicators li.active{
+    background-color: #042b40;
+}
+
+.carousel-indicators li{
+    background-color: #1c5b7d;
+}
+
+.left.carousel-control{
+    background-image: none !important;
+    font-size: 80px;
+    padding-top: 20%;
+}
+
+.right.carousel-control{
+    background-image: none !important;
+    font-size: 80px;
+    padding-top: 20%;
+}
