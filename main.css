@@ -71,6 +71,10 @@ img{
     margin-bottom: 100px;
     background-color: white;
 }
+.header.col-lg-6 {
+    margin-bottom: 100px;
+    background-color: white;
+}
 .col-lg-3{
         background-color: lightgray;
 }
