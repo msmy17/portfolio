@@ -1,15 +1,15 @@
 html{
-    background-color: ivory;
+    background-color: lightgray;
 }
 div{
-    background-color: ivory;
+    background-color: lightgray;
 }
 
 nav{
     
 }
 nav.navbar{
-    background-color: ivory;
+    background-color: lightgray;
     z-index: 1;
     position: fixed;
 }
@@ -19,7 +19,7 @@ nav.navbar a{
 }
 
 li a{
-    background-color: white;
+    background-color: lightgray;
     
 }
 
