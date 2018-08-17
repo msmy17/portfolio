@@ -77,7 +77,7 @@ img{
         text-align: center;
 
 }
-.header .col-lg-8 {
+.header col-lg-8 {
     background-color: white;
     padding-bottom: 0px;
         text-align: center;
