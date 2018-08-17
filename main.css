@@ -71,6 +71,7 @@ img{
 }
 .header .col-lg-8 {
     background-color: white;
+    padding-bottom: 0px;
 }
 .col-lg-2{
         background-color: lightgray;
