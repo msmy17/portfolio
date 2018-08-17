@@ -65,14 +65,14 @@ img{
     font-size: 80px;
     padding-top: 20%;
 }
-.col-lg-9 {
+.col-lg-6 {
     margin-bottom: 100px;
     background-color: white;
 }
 .col-lg-3{
         background-color: white;
 }
-.header.col-lg-6{
+.header.col-lg-9{
     margin-bottom: 0px;
 }
 
