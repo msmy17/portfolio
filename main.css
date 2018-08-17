@@ -77,7 +77,7 @@ img{
         text-align: center;
 
 }
-.header.col-lg-8 {
+.header .col-lg-8 {
     background-color: white;
     padding-bottom: 0px;
         text-align: center;
@@ -86,7 +86,7 @@ img{
 .col-lg-2{
         background-color: lightgray;
 }
-.footer.col-lg-8{
+.footer .col-lg-8{
     margin-bottom: 0px;
         text-align: center;
 
