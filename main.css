@@ -1,11 +1,11 @@
 html{
-    background-color: light blue;
+    background-color: lightblue;
 }
 nav{
     
 }
 nav.navbar{
-    background-color: light blue;
+    background-color: lightblue;
     z-index: 1;
     position: fixed;
 }
@@ -15,7 +15,7 @@ nav.navbar a{
 }
 
 li a{
-    background-color: light blue;
+    background-color: lightblue;
     
 }
 
