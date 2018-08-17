@@ -9,7 +9,7 @@ nav{
     
 }
 nav.navbar{
-    background-color: lightblue;
+    background-color: ivory;
     z-index: 1;
     position: fixed;
 }
