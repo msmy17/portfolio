@@ -43,9 +43,9 @@ h3{
      font-family: sans-serif, 'Proxima Nova' !important;
 }
 
-/*img{
+img{
     margin:auto; 
-}*/
+}
 .carousel-indicators li.active{
     background-color: #042b40;
 }
