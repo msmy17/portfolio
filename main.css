@@ -26,6 +26,9 @@ li a{
 .container-fluid .col-lg-12{
     margin-bottom: 3.3%;
 }
+p{
+    text-align:center;
+}
 h1{
     font-family: sans-serif, 'Proxima Nova' !important;
     font-weight: bold;
