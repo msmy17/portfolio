@@ -1,8 +1,8 @@
 html{
-    background-color: lightgray;
+    
 }
 div{
-    background-color: lightgray;
+    
 }
 
 nav{
@@ -12,6 +12,8 @@ nav.navbar{
     background-color: lightgray;
     z-index: 1;
     position: fixed;
+    width: 100%;
+    margin-left: -13px;
 }
 
 nav.navbar a{
@@ -33,7 +35,7 @@ h1{
     font-family: sans-serif, 'Proxima Nova' !important;
     font-weight: bold;
     color: #042b40 !important;
-    font-size: 100px !important;  
+    font-size: 60px !important;  
     text-align: center;
 }
 
@@ -49,6 +51,19 @@ h3{
 
 }
 
+h4{
+     color: #042b40 !important;
+     font-family: sans-serif, 'Proxima Nova' !important;
+        text-align: center;
+
+}
+
+h5{
+     color: #042b40 !important;
+     font-family: sans-serif, 'Proxima Nova' !important;
+        text-align: center;
+
+}
 img{
     margin:auto; 
 }
@@ -75,19 +90,61 @@ img{
     background-color: white;
         text-align: center;
 }
-.header.col-lg-8.col-lg-offset-2{
+.col-lg-2.col-lg-offset-2{
     background-color: white;
-    padding-bottom: -100px;
         text-align: center;
-
-}
-.col-lg-2{
-        background-color: lightgray;
-}
-.footer.col-lg-8.col-lg-offset-2{
-    padding-bottom: -100px;
-        text-align: center;
+    height:222px;
+    padding: 10px;
+    border: solid 2px;
+    border-color: black;
     
-
 }
+
+.col-lg-2.col-lg-offset-2 #ravenhill {
+    margin-top: 35%;
+}
+.col-lg-2 #hybrid {
+    margin-top: 45%;
+}
+
+.col-lg-2 #oranges {
+    margin-top: 35%;
+}
+
+.col-lg-2 #arts {
+    height: 100%;
+}
+
+.col-lg-2 #library {
+    margin-top: 35%;
+}
+
+
+.col-lg-2 # {
+    margin-top: 35%;
+}
+
+.col-lg-2 #site {
+    height: 100%;
+}
+
+.col-lg-2.col-lg-offset-2 #vector {
+    height: 100%;
+}
+/*.col-lg-2 img{
+    margin-top: 35%;
+    margin-bottom: auto;
+}*/
+.col-lg-2{
+       background-color: white;
+        text-align: center;
+    height:222px;
+        padding: 10px;
+    border: solid 2px;
+    border-color: black;
+    margin: 1px;
+}
+
+
+
 
