@@ -25,10 +25,12 @@ li a{
     
 }
 
+
+
 .container-fluid .col-lg-12{
     margin-bottom: 3.3%;
 }
-p{
+p{  
     text-align:center;
 }
 h1{
@@ -67,6 +69,8 @@ h5{
 img{
     margin:auto; 
 }
+
+
 .carousel-indicators li.active{
     background-color: #042b40;
 }
@@ -94,13 +98,53 @@ img{
 .col-lg-2#blank{
     
 }
-.col-lg-2.col-lg-offset-2{
-     line-height: 200px;
+/*.col-lg-2.col-lg-offset-2{
+     line-height: 230px;
     display: inline-block;
     vertical-align: middle
     background-color: white;
         text-align: center;
-    height:222px;
+    max-height:30%;
+    padding: 10px;
+    border: solid 2px;
+    border-color: black;
+    
+}*/
+
+.col-md-2.col-md-offset-2{
+     line-height: 275px;
+    display: inline-block;
+    vertical-align: middle
+    background-color: white;
+        text-align: center;
+    height:10%;
+    padding: 10px;
+    border: solid 2px;
+    border-color: black;
+    
+}
+
+.col-sm-2.col-sm-offset-2{
+     line-height: 252px;
+    display: inline-block;
+    vertical-align: middle
+    background-color: white;
+        text-align: center;
+    height:10%;
+    min-width: 10%;
+    padding: 10px;
+    border: solid 2px;
+    border-color: black;
+    
+}
+
+.col-xs-2.col-xs-offset-2{
+     line-height: 252px;
+    display: inline-block;
+    vertical-align: middle
+    background-color: white;
+        text-align: center;
+    height:10%;
     padding: 10px;
     border: solid 2px;
     border-color: black;
@@ -108,7 +152,7 @@ img{
 }
 
 .col-lg-2.col-lg-offset-2 #ravenhill {
-   vertical-align: middle;
+    vertical-align: middle;
 }
 .col-lg-2 #hybrid {
    vertical-align: middle;
@@ -116,10 +160,13 @@ img{
 
 .col-lg-2 #oranges {
     vertical-align: middle;
+
 }
 
+
+
 .col-lg-2 #arts {
-    height: 100%;
+    vertical-align: middle;
 }
 
 .col-lg-2 #library {
@@ -132,23 +179,64 @@ img{
 }
 
 .col-lg-2 #site {
-    height: 100%;
+    vertical-align: middle;
 }
 
 .col-lg-2.col-lg-offset-2 #vector {
-    height: 100%;
+    vertical-align: middle;
 }
 .col-lg-2 img{
     display: inline-block;
     vertical-align: middle;
 }
-.col-lg-2{
-    line-height: 200px;
+/*.col-lg-2{
+    line-height: 230px;
     display: inline-block;
     vertical-align: middle;
        background-color: white;
         text-align: center;
-    height:222px;
+    max-height:20%;
+        padding: 10px;
+    border: solid 2px;
+    border-color: black;
+    margin: 1px;
+}*/
+
+.col-md-2{
+    line-height: 100px;
+    display: inline-block;
+    vertical-align: middle;
+       background-color: white;
+        text-align: center;
+    max-height:10%;
+        padding: 10px;
+    border: solid 2px;
+    border-color: black;
+    margin: 1px;
+}
+
+.col-sm-3{
+    line-height: 275px;
+    display: inline-block;
+    vertical-align: middle;
+       background-color: white;
+        text-align: center;
+    max-height:10%;
+    width: 100%;
+        padding: 10px;
+    border: solid 2px;
+    border-color: black;
+    margin: 1px;
+    margin-left: -1px;
+}
+
+.col-xs-2{
+    line-height: 252px;
+    display: inline-block;
+    vertical-align: middle;
+       background-color: white;
+        text-align: center;
+    max-height:10%;
         padding: 10px;
     border: solid 2px;
     border-color: black;
@@ -156,5 +244,7 @@ img{
 }
 
 
-
+.col-xs-1{
+    width: 100%;
+}
 
