@@ -86,11 +86,18 @@ img{
     font-size: 80px;
     padding-top: 20%;
 }
-.col-lg-8 {
+.col-lg-8.col-lg-offset-2{
     background-color: white;
         text-align: center;
 }
+
+.col-lg-2#blank{
+    
+}
 .col-lg-2.col-lg-offset-2{
+     line-height: 200px;
+    display: inline-block;
+    vertical-align: middle
     background-color: white;
         text-align: center;
     height:222px;
@@ -101,14 +108,14 @@ img{
 }
 
 .col-lg-2.col-lg-offset-2 #ravenhill {
-    margin-top: 25%;
+   vertical-align: middle;
 }
 .col-lg-2 #hybrid {
-    margin-top: 35%;
+   vertical-align: middle;
 }
 
 .col-lg-2 #oranges {
-    margin-top: 25%;
+    vertical-align: middle;
 }
 
 .col-lg-2 #arts {
@@ -116,12 +123,12 @@ img{
 }
 
 .col-lg-2 #library {
-    margin-top: 35%;
+   vertical-align: middle;
 }
 
 
 .col-lg-2 #video {
-    margin-top: 25%;
+   vertical-align: middle;
 }
 
 .col-lg-2 #site {
@@ -131,11 +138,14 @@ img{
 .col-lg-2.col-lg-offset-2 #vector {
     height: 100%;
 }
-/*.col-lg-2 img{
-    margin-top: 35%;
-    margin-bottom: auto;
-}*/
+.col-lg-2 img{
+    display: inline-block;
+    vertical-align: middle;
+}
 .col-lg-2{
+    line-height: 200px;
+    display: inline-block;
+    vertical-align: middle;
        background-color: white;
         text-align: center;
     height:222px;
